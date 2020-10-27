@@ -1,6 +1,6 @@
 body
       {
-          background-color: #F9FAE3;
+          background-color: #E7FBFB;
           margin: 5px;
           font-family: Tahoma, arial, sans-serif;
             
@@ -17,7 +17,8 @@ body
             {
             text-align: center;
             font-weight: bold;
-            font-size: 2em;
+            font-size: 4em;
+            color: #010B5B;
             
             }
 
